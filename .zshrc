@@ -113,3 +113,4 @@ alias pip='pip3'
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh  # This loads NVM
+source ~/gitstatus/gitstatus.prompt.zsh

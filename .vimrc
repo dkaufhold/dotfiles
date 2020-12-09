@@ -20,6 +20,9 @@ nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
+nnoremap <leader>, :tabp<CR>
+nnoremap <leader>. :tabn<CR>
+
 " Enable folding
 set foldmethod=indent
 set foldlevel=99
