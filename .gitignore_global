@@ -1,2 +1,13 @@
 *.swp
 *.pyc
+*.ignoreme*
+
+.cache/
+.idea/
+.vscode/
+htmlcov/
+node_modules/
+
+.DS_Store
+dump.rdb
+
